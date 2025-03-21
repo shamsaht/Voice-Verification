@@ -1,0 +1,1 @@
+generate_srtucture generates a .dot file with the current structure of the project and then creates a png image from it
